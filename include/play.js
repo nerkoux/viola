@@ -13,9 +13,9 @@ module.exports = {
       queue.channel.leave();
       message.client.queue.delete(message.guild.id);
       let ehm = new MessageEmbed()
-      .setAuthor("Queue Ended", `https://cdn.discordapp.com/attachments/744453677753958402/747094937325142117/v.gif`)
-      .setFooter("Thank you For Listening jingle-beta")
-      .setThumbnail(`https://cdn.discordapp.com/attachments/744453677753958402/747094937325142117/v.gif`)
+      .setAuthor("Queue Ended", message.client.user.displayAvatarURL())
+      .setFooter("Thank you For Listening")
+      .setThumbnail(message.author.displayAvatarURL())
       .setColor("#ffffff");
       return queue.textChannel.send(ehm).catch(console.error);
     }
