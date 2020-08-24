@@ -1,0 +1,19 @@
+{
+
+  "TOKEN": "NzM0MDI3OTYzOTMwMjQ3MjQ4.XxLu0A.8mngLq4ejz-1mgGez3LGgcr_jUw",
+
+  "YOUTUBE_API_KEY": "AIzaSyCIQq9WPKdNA8CmvF-96Ne7M7Ebn_k7PVM",
+
+  "SOUNDCLOUD_CLIENT_ID": "",
+
+  "MAX_PLAYLIST_SIZE": 10,
+
+  "DEFAULT_PREFIX": "j!",
+
+  "PRUNING": false,
+  
+  "inviteURL" : "https://discord.com/oauth2/authorize?client_id=734027963930247248&permissions=0&scope=bot",
+  
+  "COLOR" : "#eb7434"
+
+}

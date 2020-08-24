@@ -1,0 +1,30 @@
+{
+  "name": "jingle-music",
+  "version": "1.2.0",
+  "description": "An cool Musicbot for discord Just for you",
+  "main": "index.js",
+  "author": "@Vex[R], @LackRage",
+  "private": true,
+  "homepage": "https://jingle-beta.glitch.me",
+  "engines": {
+    "node": "12.0.0"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.3.1",
+    "ffmpeg-static": "^4.2.7",
+    "lyrics-finder": "^21.3.2",
+    "simple-youtube-api": "^5.2.1",
+    "soundcloud-downloader": "^0.1.4",
+    "ytdl-core": "^3.2.2",
+    "ytdl-core-discord": "^1.2.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "figlet": "^1.5.0",
+    "ms": "^2.1.2",
+    "quick.db": "^7.1.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
