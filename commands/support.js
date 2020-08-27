@@ -9,7 +9,7 @@ module.exports = {
     let helpEmbed = new MessageEmbed()
       .setAuthor("Jingle Support", message.client.user.displayAvatarURL())
       .setTitle("Support Server Link")
-      .setDescription("#eb7434")
+      .setDescription(`[HERE] (https://discord.gg/A7fBFJd)`)
       .setThumbnail(message.author.displayAvatarURL());
 
   
