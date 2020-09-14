@@ -22,8 +22,7 @@
     "express": "^4.17.1",
     "figlet": "^1.5.0",
     "ms": "^2.1.2",
-    "quick.db": "^7.1.1",
-    "discord.js-commando": "^0.10.0"
+    "quick.db": "^7.1.1"
   },
   "scripts": {
     "start": "node index.js"
