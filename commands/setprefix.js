@@ -7,7 +7,7 @@ module.exports = {
   description: "Change the bot prefix for your server.",
   async execute(message, args) {
     if(!message.member.hasPermission("MANAGE_GUILD")) return message.channel.send("You need to have 'manage server' permission to use that.")
-    if(!args[0]) return message.channel.send("Please provide a new prefix!")
+    if(!args[0]) return message.channel.send("Please provide a new prefix for jingle!")
     
     if(args[1]) return message.channel.send("The prefix can not have two spaces!")
     
