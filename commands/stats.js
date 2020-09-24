@@ -5,7 +5,7 @@ module.exports = {
   description: "Get information about the bot.",
   execute(message, args) {
     let prefix = db.get(`prefix_${message.guild.id}`)
-    if(prefix == null) prefix = 'j!'
+    if(prefix == null) prefix = 'v>'
     let totalSeconds = (message.client.uptime / 1000);
     let days = Math.floor(totalSeconds / 86400);
     totalSeconds %= 866400;
