@@ -12,7 +12,7 @@ module.exports = {
     if(prefix == null) prefix = DEFAULT_PREFIX
 
     let helpEmbed = new MessageEmbed()
-      .setAuthor("Jingle", message.client.user.displayAvatarURL())
+      .setAuthor("Viola", message.client.user.displayAvatarURL())
       .setTitle("Command List")
       .setDescription("List of all commands")
       .setColor("#eb7434")
