@@ -35,7 +35,7 @@ const cooldowns = new Collection();
  */
 client.on("ready", () => {
   console.log(`${client.user.username} ready!`);
-  client.user.setActivity("s>help", { type: "LISTENING" });
+  client.user.setActivity("i'm only in private servers :) s>help", { type: "LISTENING" });
 });
 
 client.on('guildCreate', function(guild) {
