@@ -1,8 +1,8 @@
 {
 
-  "TOKEN": "NzU3NjU2MDczNjU3MjUzOTI5.X2jkNA.khab33KlEjPHqWE8ZEiUsa1E5h4",
+  "TOKEN": "NzM0MDI3OTYzOTMwMjQ3MjQ4.XxLu0A.VODQVyNxSjmJfdEJ3slSSR1d8gw",
 
-  "YOUTUBE_API_KEY": "AIzaSyCIQq9WPKdNA8CmvF-96Ne7M7Ebn_k7PVM",
+  "YOUTUBE_API_KEY": "AIzaSyBSiOJJ4ZliaPP8QZH2evhQLAJ6zww1Me4",
 
   "SOUNDCLOUD_CLIENT_ID": "",
 
@@ -12,7 +12,7 @@
 
   "PRUNING": false,
   
-  "inviteURL" : "https://discord.com/api/oauth2/authorize?client_id=757656073657253929&permissions=8&scope=bot",
+  "inviteURL" : "https://discord.com/api/oauth2/authorize?client_id=734027963930247248&permissions=66124576&scope=bot",
   
   "COLOR" : "#eb7434"
 
