@@ -1,6 +1,6 @@
 {
 
-  "TOKEN": "NzM0MDI3OTYzOTMwMjQ3MjQ4.XxLu0A.quui-xJ5U3ZeFjNG9OVEKYFes-g",
+  "TOKEN": "NzU3NjU2MDczNjU3MjUzOTI5.X2jkNA.khab33KlEjPHqWE8ZEiUsa1E5h4",
 
   "YOUTUBE_API_KEY": "AIzaSyCIQq9WPKdNA8CmvF-96Ne7M7Ebn_k7PVM",
 
@@ -12,7 +12,7 @@
 
   "PRUNING": false,
   
-  "inviteURL" : "https://discord.com/oauth2/authorize?client_id=734027963930247248&permissions=0&scope=bot",
+  "inviteURL" : "https://discord.com/api/oauth2/authorize?client_id=757656073657253929&permissions=8&scope=bot",
   
   "COLOR" : "#eb7434"
 
