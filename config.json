@@ -8,7 +8,7 @@
 
   "MAX_PLAYLIST_SIZE": 10,
 
-  "DEFAULT_PREFIX": "s>",
+  "DEFAULT_PREFIX": "v>",
 
   "PRUNING": false,
   
