@@ -1,6 +1,6 @@
 const { MessageEmbed } = require("discord.js");
 const db = require('quick.db')
-const DEFAULT_PREFIX = 'j!'
+const DEFAULT_PREFIX = 'v>'
 
 module.exports = {
   name: "help",
