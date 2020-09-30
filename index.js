@@ -40,7 +40,7 @@ client.on("ready", () => {
 
 client.on('guildCreate', function(guild) {
   let embed = new MessageEmbed()
-  .setTitle('Jingle Joined A Guild.')
+  .setTitle('Viola Joined A Guild.')
   .addField('Guild Name', guild.name, true)
   .addField('Guild Member Count', guild.members.cache.size, true)
   .addField('Guild ID', guild.id, true)
@@ -52,7 +52,7 @@ client.on('guildCreate', function(guild) {
 
 client.on('guildDelete', function(guild) {
   let embed = new MessageEmbed()
-  .setTitle('Jingle Left A Guild.')
+  .setTitle('Viola Left A Guild.')
   .addField('Guild Name', guild.name, true)
   .addField('Guild Member Count', guild.members.cache.size, true)
   .addField('Guild ID', guild.id, true)
