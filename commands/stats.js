@@ -15,7 +15,7 @@ module.exports = {
     let seconds = Math.floor(totalSeconds % 60);
     let uptime = `${days} days, ${hours} hours, ${minutes} minutes and ${seconds} seconds`
     let embed = new discord.MessageEmbed()
-    .setAuthor('Jingle', message.client.user.displayAvatarURL())
+    .setAuthor('Viola', message.client.user.displayAvatarURL())
     .setThumbnail(message.author.displayAvatarURL())
     .setTitle('Stats And Information')
     .setColor("#eb7434")
