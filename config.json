@@ -1,8 +1,8 @@
 {
 
-  "TOKEN": "NzM0MDI3OTYzOTMwMjQ3MjQ4.XxLu0A.VODQVyNxSjmJfdEJ3slSSR1d8gw",
+  "TOKEN": "TOKEN",
 
-  "YOUTUBE_API_KEY": "AIzaSyBSiOJJ4ZliaPP8QZH2evhQLAJ6zww1Me4",
+  "YOUTUBE_API_KEY": "TOKEN",
 
   "SOUNDCLOUD_CLIENT_ID": "",
 
@@ -12,7 +12,7 @@
 
   "PRUNING": false,
   
-  "inviteURL" : "https://discord.com/api/oauth2/authorize?client_id=734027963930247248&permissions=66124576&scope=bot",
+  "inviteURL" : "URL",
   
   "COLOR" : "#eb7434"
 
