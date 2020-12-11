@@ -1,4 +1,4 @@
-const { canModifyQueue } = require("../util/jingleUtill");
+const { canModifyQueue } = require("../util/vilaUtill");
 
 module.exports = {
   name: "loop",
